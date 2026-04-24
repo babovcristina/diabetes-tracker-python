@@ -1,6 +1,5 @@
 # diabetes-tracker-python
 CLI-based Diabetes Tracker built with Python and SQLite, including data analysis and trends 
-Description
 
 This application is designed to help track and analyze diabetes-related health data.
 
